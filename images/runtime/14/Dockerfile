@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-FROM node:14.17.0-alpine
+FROM arm64v8/node:14.17.0-alpine
